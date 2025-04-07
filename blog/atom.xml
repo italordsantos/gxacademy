@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://your-docusaurus-site.example.com/gxacademy/blog</id>
     <title>GxAcademy Blog</title>
     <updated>2025-04-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/gxacademy/blog"/>
     <subtitle>GxAcademy Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-site.example.com/gxacademy/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Primeiro Post]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/helloworld</id>
-        <link href="https://your-docusaurus-site.example.com/blog/helloworld"/>
+        <id>https://your-docusaurus-site.example.com/gxacademy/blog/helloworld</id>
+        <link href="https://your-docusaurus-site.example.com/gxacademy/blog/helloworld"/>
         <updated>2025-04-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Olha só]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="olha-só">Olha só<a href="https://your-docusaurus-site.example.com/blog/helloworld#olha-s%C3%B3" class="hash-link" aria-label="Direct link to Olha só" title="Direct link to Olha só">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="olha-só">Olha só<a href="https://your-docusaurus-site.example.com/gxacademy/blog/helloworld#olha-s%C3%B3" class="hash-link" aria-label="Direct link to Olha só" title="Direct link to Olha só">​</a></h2>
 <p>Conteúdo</p>]]></content>
         <author>
             <name>Italo Rodrigues</name>

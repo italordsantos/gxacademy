@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[659],{8870:e=>{e.exports=JSON.parse('{"tags":[{"label":"v18","permalink":"/gxacademy/blog/tags/v-18","count":1}]}')}}]);

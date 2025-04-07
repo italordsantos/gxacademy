@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>GxAcademy Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://your-docusaurus-site.example.com/gxacademy/blog</link>
         <description>GxAcademy Blog</description>
         <lastBuildDate>Sat, 05 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,11 +10,11 @@
         <language>en</language>
         <item>
             <title><![CDATA[Primeiro Post]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/helloworld</link>
-            <guid>https://your-docusaurus-site.example.com/blog/helloworld</guid>
+            <link>https://your-docusaurus-site.example.com/gxacademy/blog/helloworld</link>
+            <guid>https://your-docusaurus-site.example.com/gxacademy/blog/helloworld</guid>
             <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Olha só]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="olha-só">Olha só<a href="https://your-docusaurus-site.example.com/blog/helloworld#olha-s%C3%B3" class="hash-link" aria-label="Direct link to Olha só" title="Direct link to Olha só">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="olha-só">Olha só<a href="https://your-docusaurus-site.example.com/gxacademy/blog/helloworld#olha-s%C3%B3" class="hash-link" aria-label="Direct link to Olha só" title="Direct link to Olha só">​</a></h2>
 <p>Conteúdo</p>]]></content:encoded>
             <category>v18</category>
         </item>
